@@ -1,14 +1,1 @@
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+[![Software Engineer banner](https://profilyze.vercel.app/api/banner?u=dangth12&c=VVDLbsIwEPyVanpdRTYkEPbeL6jUC-LgEMcxBTuKzSNC_Htl8xA9zexrZnevOIEl4Rj0CEarnIm9nIHQGPAVv9a1YAyjDjqC4NRBg2H8zv9424LQXcCVIHQTuFwVqxuhB1eLWVERWnsAC8IIlguC3gfw-gqbNNVJRTVKEOI06FcChKRY1ml-AkuxLCQhJM2UGq0zYHzWc910Ejd6yEV9iW9iKUxRAsa37-JZjfrjyxnrtH66rET2KCtZ1NmjnBE679KMdTH3ncFLIQhbv_fpR59qWTedAiH0-Xf-DBaFkK9V7Na78LZLjkEP5DUUGz_0WV3xKWwzGhv7Y5Opcua4V_fyqNU27sK99agfzPn2SYcp9t5lugvY_DusElVR5sPmM4JRA7i-bW5_)](https://profilyze.vercel.app/?u=dangth12&c=VVDLbsIwEPyVanpdRTYkEPbeL6jUC-LgEMcxBTuKzSNC_Htl8xA9zexrZnevOIEl4Rj0CEarnIm9nIHQGPAVv9a1YAyjDjqC4NRBg2H8zv9424LQXcCVIHQTuFwVqxuhB1eLWVERWnsAC8IIlguC3gfw-gqbNNVJRTVKEOI06FcChKRY1ml-AkuxLCQhJM2UGq0zYHzWc910Ejd6yEV9iW9iKUxRAsa37-JZjfrjyxnrtH66rET2KCtZ1NmjnBE679KMdTH3ncFLIQhbv_fpR59qWTedAiH0-Xf-DBaFkK9V7Na78LZLjkEP5DUUGz_0WV3xKWwzGhv7Y5Opcua4V_fyqNU27sK99agfzPn2SYcp9t5lugvY_DusElVR5sPmM4JRA7i-bW5_)
